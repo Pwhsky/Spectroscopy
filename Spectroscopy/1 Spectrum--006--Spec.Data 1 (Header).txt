@@ -1,0 +1,13 @@
+//Exported ASCII-File
+[Header]
+FileName = 
+GraphName = Spectrum--006--Spec.Data 1
+SizeX = 1
+SizeY = 1
+SizeGraph = 1600
+PositionUnit = µm
+PositionX = -3148.1
+PositionY = -3630.4
+PositionZ = 0
+XAxisUnit = rel. 1/cm
+DataUnit = CCD cts

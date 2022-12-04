@@ -1,0 +1,13 @@
+//Exported ASCII-File
+[Header]
+FileName = 
+GraphName = sampleE
+SizeX = 1
+SizeY = 1
+SizeGraph = 1600
+PositionUnit = µm
+PositionX = -3738.7
+PositionY = -1289.2
+PositionZ = 0
+XAxisUnit = rel. 1/cm
+DataUnit = CCD cts
